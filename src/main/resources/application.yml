@@ -1,0 +1,6 @@
+task:
+  pool:
+    corePoolSize: 10
+    maxPoolSize: 20
+    keepAliveSeconds: 300
+    queueCapacity: 50
